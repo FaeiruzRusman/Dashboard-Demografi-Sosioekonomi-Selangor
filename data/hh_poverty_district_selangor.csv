@@ -1,0 +1,28 @@
+state,district,date,poverty_absolute,poverty_relative
+Selangor,Gombak,2019-01-01,0.4,14.5
+Selangor,Gombak,2022-01-01,2.4,13.8
+Selangor,Gombak,2024-01-01,2.1,9.8
+Selangor,Klang,2019-01-01,1.7,16.6
+Selangor,Klang,2022-01-01,2.2,20.3
+Selangor,Klang,2024-01-01,1.0,12.0
+Selangor,Kuala Langat,2019-01-01,2.4,19.7
+Selangor,Kuala Langat,2022-01-01,0.3,9.4
+Selangor,Kuala Langat,2024-01-01,0.3,2.2
+Selangor,Kuala Selangor,2019-01-01,3.5,30.4
+Selangor,Kuala Selangor,2022-01-01,2.8,25.2
+Selangor,Kuala Selangor,2024-01-01,1.8,21.0
+Selangor,Petaling,2019-01-01,1.1,14.4
+Selangor,Petaling,2022-01-01,1.6,14.9
+Selangor,Petaling,2024-01-01,1.0,10.8
+Selangor,Sabak Bernam,2019-01-01,4.7,46.2
+Selangor,Sabak Bernam,2022-01-01,5.3,42.6
+Selangor,Sabak Bernam,2024-01-01,2.7,25.7
+Selangor,Sepang,2019-01-01,0.7,7.9
+Selangor,Sepang,2022-01-01,0.0,3.4
+Selangor,Sepang,2024-01-01,0.1,1.1
+Selangor,Hulu Langat,2019-01-01,0.6,10.5
+Selangor,Hulu Langat,2022-01-01,0.5,7.0
+Selangor,Hulu Langat,2024-01-01,0.1,0.3
+Selangor,Hulu Selangor,2019-01-01,1.5,26.6
+Selangor,Hulu Selangor,2022-01-01,1.7,23.9
+Selangor,Hulu Selangor,2024-01-01,0.4,16.7
