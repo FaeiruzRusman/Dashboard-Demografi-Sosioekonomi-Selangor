@@ -1,0 +1,41 @@
+date,state,district,piped_water,sanitation,electricity
+2016-01-01,Selangor,All Districts,100.0,100.0,100.0
+2019-01-01,Selangor,All Districts,100.0,100.0,100.0
+2022-01-01,Selangor,All Districts,100.0,100.0,100.0
+2024-01-01,Selangor,All Districts,100.0,100.0,100.0
+2016-01-01,Selangor,Gombak,100.0,100.0,100.0
+2019-01-01,Selangor,Gombak,100.0,100.0,100.0
+2022-01-01,Selangor,Gombak,100.0,100.0,100.0
+2024-01-01,Selangor,Gombak,99.97,100.0,100.0
+2016-01-01,Selangor,Hulu Langat,100.0,100.0,100.0
+2019-01-01,Selangor,Hulu Langat,100.0,100.0,100.0
+2022-01-01,Selangor,Hulu Langat,100.0,100.0,100.0
+2024-01-01,Selangor,Hulu Langat,100.0,100.0,100.0
+2016-01-01,Selangor,Hulu Selangor,100.0,100.0,100.0
+2019-01-01,Selangor,Hulu Selangor,100.0,100.0,100.0
+2022-01-01,Selangor,Hulu Selangor,100.0,100.0,100.0
+2024-01-01,Selangor,Hulu Selangor,100.0,100.0,100.0
+2016-01-01,Selangor,Klang,100.0,100.0,100.0
+2019-01-01,Selangor,Klang,100.0,100.0,100.0
+2022-01-01,Selangor,Klang,100.0,99.9,100.0
+2024-01-01,Selangor,Klang,100.0,100.0,100.0
+2016-01-01,Selangor,Kuala Langat,100.0,100.0,100.0
+2019-01-01,Selangor,Kuala Langat,100.0,100.0,100.0
+2022-01-01,Selangor,Kuala Langat,100.0,100.0,100.0
+2024-01-01,Selangor,Kuala Langat,100.0,100.0,100.0
+2016-01-01,Selangor,Kuala Selangor,100.0,100.0,100.0
+2019-01-01,Selangor,Kuala Selangor,100.0,100.0,100.0
+2022-01-01,Selangor,Kuala Selangor,100.0,100.0,100.0
+2024-01-01,Selangor,Kuala Selangor,100.0,100.0,100.0
+2016-01-01,Selangor,Petaling,100.0,100.0,100.0
+2019-01-01,Selangor,Petaling,100.0,100.0,100.0
+2022-01-01,Selangor,Petaling,100.0,100.0,100.0
+2024-01-01,Selangor,Petaling,100.0,100.0,100.0
+2016-01-01,Selangor,Sabak Bernam,100.0,100.0,100.0
+2019-01-01,Selangor,Sabak Bernam,100.0,100.0,100.0
+2022-01-01,Selangor,Sabak Bernam,100.0,100.0,100.0
+2024-01-01,Selangor,Sabak Bernam,100.0,100.0,100.0
+2016-01-01,Selangor,Sepang,100.0,100.0,100.0
+2019-01-01,Selangor,Sepang,100.0,100.0,100.0
+2022-01-01,Selangor,Sepang,100.0,100.0,100.0
+2024-01-01,Selangor,Sepang,100.0,100.0,100.0
