@@ -1,0 +1,19 @@
+date,state,district,income_mean,income_median,expenditure_mean,gini,poverty
+2022-01-01,Selangor,Gombak,13523,10180,6673,0.392,2.4
+2024-01-01,Selangor,Gombak,14168,10777,7326,0.366,2.1
+2022-01-01,Selangor,Klang,10278,8203,6622,0.347,2.2
+2024-01-01,Selangor,Klang,10912,8837,6927,0.299,1.0
+2022-01-01,Selangor,Kuala Langat,11048,10093,5621,0.277,0.3
+2024-01-01,Selangor,Kuala Langat,11714,10583,6123,0.16,0.3
+2022-01-01,Selangor,Kuala Selangor,9410,7644,5543,0.346,2.8
+2024-01-01,Selangor,Kuala Selangor,10584,8046,5974,0.35,1.8
+2022-01-01,Selangor,Petaling,12760,9618,7721,0.392,1.6
+2024-01-01,Selangor,Petaling,14422,10688,8210,0.387,1.0
+2022-01-01,Selangor,Sabak Bernam,6930,5533,5128,0.321,5.3
+2024-01-01,Selangor,Sabak Bernam,8033,6941,5621,0.268,2.7
+2022-01-01,Selangor,Sepang,13673,12608,6976,0.229,0.0
+2024-01-01,Selangor,Sepang,15906,11131,7676,0.332,0.1
+2022-01-01,Selangor,Ulu Langat,13386,11210,6289,0.326,0.5
+2024-01-01,Selangor,Ulu Langat,13822,11404,6758,0.219,0.1
+2022-01-01,Selangor,Ulu Selangor,8779,7678,4604,0.297,1.7
+2024-01-01,Selangor,Ulu Selangor,9499,8485,5425,0.299,0.4
