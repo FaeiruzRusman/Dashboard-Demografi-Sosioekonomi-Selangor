@@ -1,0 +1,271 @@
+state,district,stage,type,date,schools
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2017-01-01,659
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2018-01-01,661
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2019-01-01,661
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2020-01-01,662
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2021-01-01,663
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2022-01-01,661
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2023-06-30,662
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2024-06-30,661
+Selangor,All Districts,primary,Sekolah Rendah Kerajaan,2025-06-30,664
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2017-01-01,277
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2018-01-01,278
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2019-01-01,278
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2020-01-01,278
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2021-01-01,278
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2022-01-01,279
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2023-06-30,279
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2024-06-30,281
+Selangor,All Districts,secondary,Sekolah Menengah Kerajaan,2025-06-30,281
+Selangor,All Districts,tertiary,IPTA,2017-01-01,4
+Selangor,All Districts,tertiary,IPTA,2018-01-01,4
+Selangor,All Districts,tertiary,IPTA,2019-01-01,4
+Selangor,All Districts,tertiary,IPTA,2020-01-01,4
+Selangor,All Districts,tertiary,IPTA,2021-01-01,4
+Selangor,All Districts,tertiary,IPTA,2022-01-01,4
+Selangor,All Districts,tertiary,IPTA,2023-01-01,4
+Selangor,All Districts,tertiary,IPTA,2024-01-01,4
+Selangor,All Districts,tertiary,IPTA,2025-01-01,4
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2017-01-01,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2018-01-01,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2019-01-01,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2020-01-01,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2021-01-01,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2022-01-01,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2023-06-30,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2024-06-30,68
+Selangor,Gombak,primary,Sekolah Rendah Kerajaan,2025-06-30,68
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2017-01-01,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2018-01-01,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2019-01-01,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2020-01-01,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2021-01-01,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2022-01-01,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2023-06-30,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2024-06-30,36
+Selangor,Gombak,secondary,Sekolah Menengah Kerajaan,2025-06-30,36
+Selangor,Gombak,tertiary,IPTA,2017-01-01,1
+Selangor,Gombak,tertiary,IPTA,2018-01-01,1
+Selangor,Gombak,tertiary,IPTA,2019-01-01,1
+Selangor,Gombak,tertiary,IPTA,2020-01-01,1
+Selangor,Gombak,tertiary,IPTA,2021-01-01,1
+Selangor,Gombak,tertiary,IPTA,2022-01-01,1
+Selangor,Gombak,tertiary,IPTA,2023-01-01,1
+Selangor,Gombak,tertiary,IPTA,2024-01-01,1
+Selangor,Gombak,tertiary,IPTA,2025-01-01,1
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2017-01-01,89
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2018-01-01,89
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2019-01-01,89
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2020-01-01,90
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2021-01-01,91
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2022-01-01,91
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2023-06-30,91
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2024-06-30,91
+Selangor,Ulu Langat,primary,Sekolah Rendah Kerajaan,2025-06-30,92
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2017-01-01,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2018-01-01,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2019-01-01,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2020-01-01,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2021-01-01,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2022-01-01,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2023-06-30,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2024-06-30,40
+Selangor,Ulu Langat,secondary,Sekolah Menengah Kerajaan,2025-06-30,40
+Selangor,Ulu Langat,tertiary,IPTA,2017-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2018-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2019-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2020-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2021-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2022-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2023-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2024-01-01,1
+Selangor,Ulu Langat,tertiary,IPTA,2025-01-01,1
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2017-01-01,51
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2018-01-01,52
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2019-01-01,52
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2020-01-01,52
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2021-01-01,52
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2022-01-01,51
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2023-06-30,51
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2024-06-30,51
+Selangor,Ulu Selangor,primary,Sekolah Rendah Kerajaan,2025-06-30,51
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2017-01-01,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2018-01-01,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2019-01-01,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2020-01-01,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2021-01-01,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2022-01-01,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2023-06-30,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2024-06-30,17
+Selangor,Ulu Selangor,secondary,Sekolah Menengah Kerajaan,2025-06-30,17
+Selangor,Ulu Selangor,tertiary,IPTA,2017-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2018-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2019-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2020-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2021-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2022-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2023-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2024-01-01,0
+Selangor,Ulu Selangor,tertiary,IPTA,2025-01-01,0
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2017-01-01,92
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2018-01-01,93
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2019-01-01,93
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2020-01-01,93
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2021-01-01,93
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2022-01-01,92
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2023-06-30,92
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2024-06-30,91
+Selangor,Klang,primary,Sekolah Rendah Kerajaan,2025-06-30,91
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2017-01-01,39
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2018-01-01,40
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2019-01-01,40
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2020-01-01,40
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2021-01-01,40
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2022-01-01,40
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2023-06-30,40
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2024-06-30,40
+Selangor,Klang,secondary,Sekolah Menengah Kerajaan,2025-06-30,40
+Selangor,Klang,tertiary,IPTA,2017-01-01,0
+Selangor,Klang,tertiary,IPTA,2018-01-01,0
+Selangor,Klang,tertiary,IPTA,2019-01-01,0
+Selangor,Klang,tertiary,IPTA,2020-01-01,0
+Selangor,Klang,tertiary,IPTA,2021-01-01,0
+Selangor,Klang,tertiary,IPTA,2022-01-01,0
+Selangor,Klang,tertiary,IPTA,2023-01-01,0
+Selangor,Klang,tertiary,IPTA,2024-01-01,0
+Selangor,Klang,tertiary,IPTA,2025-01-01,0
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2017-01-01,55
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2018-01-01,55
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2019-01-01,55
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2020-01-01,55
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2021-01-01,55
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2022-01-01,56
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2023-06-30,56
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2024-06-30,57
+Selangor,Kuala Langat,primary,Sekolah Rendah Kerajaan,2025-06-30,57
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2017-01-01,17
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2018-01-01,17
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2019-01-01,17
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2020-01-01,17
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2021-01-01,17
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2022-01-01,18
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2023-06-30,18
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2024-06-30,19
+Selangor,Kuala Langat,secondary,Sekolah Menengah Kerajaan,2025-06-30,19
+Selangor,Kuala Langat,tertiary,IPTA,2017-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2018-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2019-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2020-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2021-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2022-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2023-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2024-01-01,0
+Selangor,Kuala Langat,tertiary,IPTA,2025-01-01,0
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2017-01-01,71
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2018-01-01,70
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2019-01-01,70
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2020-01-01,70
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2021-01-01,70
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2022-01-01,70
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2023-06-30,69
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2024-06-30,68
+Selangor,Kuala Selangor,primary,Sekolah Rendah Kerajaan,2025-06-30,68
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2017-01-01,21
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2018-01-01,21
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2019-01-01,21
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2020-01-01,21
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2021-01-01,21
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2022-01-01,21
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2023-06-30,21
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2024-06-30,22
+Selangor,Kuala Selangor,secondary,Sekolah Menengah Kerajaan,2025-06-30,22
+Selangor,Kuala Selangor,tertiary,IPTA,2017-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2018-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2019-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2020-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2021-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2022-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2023-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2024-01-01,0
+Selangor,Kuala Selangor,tertiary,IPTA,2025-01-01,0
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2017-01-01,148
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2018-01-01,148
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2019-01-01,148
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2020-01-01,148
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2021-01-01,148
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2022-01-01,147
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2023-06-30,148
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2024-06-30,148
+Selangor,Petaling,primary,Sekolah Rendah Kerajaan,2025-06-30,150
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2017-01-01,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2018-01-01,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2019-01-01,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2020-01-01,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2021-01-01,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2022-01-01,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2023-06-30,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2024-06-30,77
+Selangor,Petaling,secondary,Sekolah Menengah Kerajaan,2025-06-30,77
+Selangor,Petaling,tertiary,IPTA,2017-01-01,2
+Selangor,Petaling,tertiary,IPTA,2018-01-01,2
+Selangor,Petaling,tertiary,IPTA,2019-01-01,2
+Selangor,Petaling,tertiary,IPTA,2020-01-01,2
+Selangor,Petaling,tertiary,IPTA,2021-01-01,2
+Selangor,Petaling,tertiary,IPTA,2022-01-01,2
+Selangor,Petaling,tertiary,IPTA,2023-01-01,2
+Selangor,Petaling,tertiary,IPTA,2024-01-01,2
+Selangor,Petaling,tertiary,IPTA,2025-01-01,2
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2017-01-01,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2018-01-01,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2019-01-01,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2020-01-01,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2021-01-01,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2022-01-01,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2023-06-30,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2024-06-30,47
+Selangor,Sabak Bernam,primary,Sekolah Rendah Kerajaan,2025-06-30,47
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2017-01-01,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2018-01-01,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2019-01-01,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2020-01-01,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2021-01-01,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2022-01-01,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2023-06-30,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2024-06-30,17
+Selangor,Sabak Bernam,secondary,Sekolah Menengah Kerajaan,2025-06-30,17
+Selangor,Sabak Bernam,tertiary,IPTA,2017-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2018-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2019-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2020-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2021-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2022-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2023-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2024-01-01,0
+Selangor,Sabak Bernam,tertiary,IPTA,2025-01-01,0
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2017-01-01,38
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2018-01-01,39
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2019-01-01,39
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2020-01-01,39
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2021-01-01,39
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2022-01-01,39
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2023-06-30,40
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2024-06-30,40
+Selangor,Sepang,primary,Sekolah Rendah Kerajaan,2025-06-30,40
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2017-01-01,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2018-01-01,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2019-01-01,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2020-01-01,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2021-01-01,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2022-01-01,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2023-06-30,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2024-06-30,13
+Selangor,Sepang,secondary,Sekolah Menengah Kerajaan,2025-06-30,13
+Selangor,Sepang,tertiary,IPTA,2017-01-01,0
+Selangor,Sepang,tertiary,IPTA,2018-01-01,0
+Selangor,Sepang,tertiary,IPTA,2019-01-01,0
+Selangor,Sepang,tertiary,IPTA,2020-01-01,0
+Selangor,Sepang,tertiary,IPTA,2021-01-01,0
+Selangor,Sepang,tertiary,IPTA,2022-01-01,0
+Selangor,Sepang,tertiary,IPTA,2023-01-01,0
+Selangor,Sepang,tertiary,IPTA,2024-01-01,0
+Selangor,Sepang,tertiary,IPTA,2025-01-01,0
