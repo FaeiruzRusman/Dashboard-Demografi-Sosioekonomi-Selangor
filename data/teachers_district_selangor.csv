@@ -1,0 +1,559 @@
+state,district,stage,sex,date,teachers
+Selangor,All Districts,primary,both,2017-01-01,33989
+Selangor,All Districts,primary,both,2018-01-01,35136
+Selangor,All Districts,primary,both,2019-01-01,34600
+Selangor,All Districts,primary,both,2020-01-01,35284
+Selangor,All Districts,primary,both,2021-01-01,35268
+Selangor,All Districts,primary,both,2022-01-01,35018
+Selangor,All Districts,primary,both,2023-06-30,34958
+Selangor,All Districts,primary,both,2024-06-30,35741
+Selangor,All Districts,primary,both,2025-06-30,35894
+Selangor,All Districts,primary,female,2017-01-01,26308
+Selangor,All Districts,primary,female,2018-01-01,27330
+Selangor,All Districts,primary,female,2019-01-01,26925
+Selangor,All Districts,primary,female,2020-01-01,27248
+Selangor,All Districts,primary,female,2021-01-01,27253
+Selangor,All Districts,primary,female,2022-01-01,27084
+Selangor,All Districts,primary,female,2023-06-30,27048
+Selangor,All Districts,primary,female,2024-06-30,27581
+Selangor,All Districts,primary,female,2025-06-30,27698
+Selangor,All Districts,primary,male,2017-01-01,7681
+Selangor,All Districts,primary,male,2018-01-01,7806
+Selangor,All Districts,primary,male,2019-01-01,7675
+Selangor,All Districts,primary,male,2020-01-01,8036
+Selangor,All Districts,primary,male,2021-01-01,8015
+Selangor,All Districts,primary,male,2022-01-01,7934
+Selangor,All Districts,primary,male,2023-06-30,7910
+Selangor,All Districts,primary,male,2024-06-30,8160
+Selangor,All Districts,primary,male,2025-06-30,8196
+Selangor,All Districts,secondary,both,2017-01-01,26933
+Selangor,All Districts,secondary,both,2018-01-01,27075
+Selangor,All Districts,secondary,both,2019-01-01,26889
+Selangor,All Districts,secondary,both,2020-01-01,26532
+Selangor,All Districts,secondary,both,2021-01-01,26022
+Selangor,All Districts,secondary,both,2022-01-01,27214
+Selangor,All Districts,secondary,both,2023-06-30,26629
+Selangor,All Districts,secondary,both,2024-06-30,26629
+Selangor,All Districts,secondary,both,2025-06-30,26514
+Selangor,All Districts,secondary,female,2017-01-01,22098
+Selangor,All Districts,secondary,female,2018-01-01,22194
+Selangor,All Districts,secondary,female,2019-01-01,22026
+Selangor,All Districts,secondary,female,2020-01-01,21760
+Selangor,All Districts,secondary,female,2021-01-01,21375
+Selangor,All Districts,secondary,female,2022-01-01,22262
+Selangor,All Districts,secondary,female,2023-06-30,21768
+Selangor,All Districts,secondary,female,2024-06-30,21753
+Selangor,All Districts,secondary,female,2025-06-30,21653
+Selangor,All Districts,secondary,male,2017-01-01,4835
+Selangor,All Districts,secondary,male,2018-01-01,4881
+Selangor,All Districts,secondary,male,2019-01-01,4863
+Selangor,All Districts,secondary,male,2020-01-01,4772
+Selangor,All Districts,secondary,male,2021-01-01,4647
+Selangor,All Districts,secondary,male,2022-01-01,4952
+Selangor,All Districts,secondary,male,2023-06-30,4861
+Selangor,All Districts,secondary,male,2024-06-30,4876
+Selangor,All Districts,secondary,male,2025-06-30,4861
+Selangor,Gombak,primary,both,2017-01-01,4526
+Selangor,Gombak,primary,both,2018-01-01,4635
+Selangor,Gombak,primary,both,2019-01-01,4520
+Selangor,Gombak,primary,both,2020-01-01,4612
+Selangor,Gombak,primary,both,2021-01-01,4615
+Selangor,Gombak,primary,both,2022-01-01,4557
+Selangor,Gombak,primary,both,2023-06-30,4514
+Selangor,Gombak,primary,both,2024-06-30,4587
+Selangor,Gombak,primary,both,2025-06-30,4566
+Selangor,Gombak,primary,female,2017-01-01,3444
+Selangor,Gombak,primary,female,2018-01-01,3537
+Selangor,Gombak,primary,female,2019-01-01,3453
+Selangor,Gombak,primary,female,2020-01-01,3493
+Selangor,Gombak,primary,female,2021-01-01,3494
+Selangor,Gombak,primary,female,2022-01-01,3455
+Selangor,Gombak,primary,female,2023-06-30,3440
+Selangor,Gombak,primary,female,2024-06-30,3481
+Selangor,Gombak,primary,female,2025-06-30,3457
+Selangor,Gombak,primary,male,2017-01-01,1082
+Selangor,Gombak,primary,male,2018-01-01,1098
+Selangor,Gombak,primary,male,2019-01-01,1067
+Selangor,Gombak,primary,male,2020-01-01,1119
+Selangor,Gombak,primary,male,2021-01-01,1121
+Selangor,Gombak,primary,male,2022-01-01,1102
+Selangor,Gombak,primary,male,2023-06-30,1074
+Selangor,Gombak,primary,male,2024-06-30,1106
+Selangor,Gombak,primary,male,2025-06-30,1109
+Selangor,Gombak,secondary,both,2017-01-01,3826
+Selangor,Gombak,secondary,both,2018-01-01,3819
+Selangor,Gombak,secondary,both,2019-01-01,3772
+Selangor,Gombak,secondary,both,2020-01-01,3751
+Selangor,Gombak,secondary,both,2021-01-01,3680
+Selangor,Gombak,secondary,both,2022-01-01,3832
+Selangor,Gombak,secondary,both,2023-06-30,3740
+Selangor,Gombak,secondary,both,2024-06-30,3724
+Selangor,Gombak,secondary,both,2025-06-30,3688
+Selangor,Gombak,secondary,female,2017-01-01,3206
+Selangor,Gombak,secondary,female,2018-01-01,3189
+Selangor,Gombak,secondary,female,2019-01-01,3136
+Selangor,Gombak,secondary,female,2020-01-01,3107
+Selangor,Gombak,secondary,female,2021-01-01,3047
+Selangor,Gombak,secondary,female,2022-01-01,3165
+Selangor,Gombak,secondary,female,2023-06-30,3089
+Selangor,Gombak,secondary,female,2024-06-30,3074
+Selangor,Gombak,secondary,female,2025-06-30,3046
+Selangor,Gombak,secondary,male,2017-01-01,620
+Selangor,Gombak,secondary,male,2018-01-01,630
+Selangor,Gombak,secondary,male,2019-01-01,636
+Selangor,Gombak,secondary,male,2020-01-01,644
+Selangor,Gombak,secondary,male,2021-01-01,633
+Selangor,Gombak,secondary,male,2022-01-01,667
+Selangor,Gombak,secondary,male,2023-06-30,651
+Selangor,Gombak,secondary,male,2024-06-30,650
+Selangor,Gombak,secondary,male,2025-06-30,642
+Selangor,Ulu Langat,primary,both,2017-01-01,5930
+Selangor,Ulu Langat,primary,both,2018-01-01,6160
+Selangor,Ulu Langat,primary,both,2019-01-01,6088
+Selangor,Ulu Langat,primary,both,2020-01-01,6225
+Selangor,Ulu Langat,primary,both,2021-01-01,6192
+Selangor,Ulu Langat,primary,both,2022-01-01,6149
+Selangor,Ulu Langat,primary,both,2023-06-30,6129
+Selangor,Ulu Langat,primary,both,2024-06-30,6324
+Selangor,Ulu Langat,primary,both,2025-06-30,6382
+Selangor,Ulu Langat,primary,female,2017-01-01,4681
+Selangor,Ulu Langat,primary,female,2018-01-01,4877
+Selangor,Ulu Langat,primary,female,2019-01-01,4822
+Selangor,Ulu Langat,primary,female,2020-01-01,4886
+Selangor,Ulu Langat,primary,female,2021-01-01,4875
+Selangor,Ulu Langat,primary,female,2022-01-01,4838
+Selangor,Ulu Langat,primary,female,2023-06-30,4813
+Selangor,Ulu Langat,primary,female,2024-06-30,4943
+Selangor,Ulu Langat,primary,female,2025-06-30,4988
+Selangor,Ulu Langat,primary,male,2017-01-01,1249
+Selangor,Ulu Langat,primary,male,2018-01-01,1283
+Selangor,Ulu Langat,primary,male,2019-01-01,1266
+Selangor,Ulu Langat,primary,male,2020-01-01,1339
+Selangor,Ulu Langat,primary,male,2021-01-01,1317
+Selangor,Ulu Langat,primary,male,2022-01-01,1311
+Selangor,Ulu Langat,primary,male,2023-06-30,1316
+Selangor,Ulu Langat,primary,male,2024-06-30,1381
+Selangor,Ulu Langat,primary,male,2025-06-30,1394
+Selangor,Ulu Langat,secondary,both,2017-01-01,4660
+Selangor,Ulu Langat,secondary,both,2018-01-01,4660
+Selangor,Ulu Langat,secondary,both,2019-01-01,4600
+Selangor,Ulu Langat,secondary,both,2020-01-01,4539
+Selangor,Ulu Langat,secondary,both,2021-01-01,4425
+Selangor,Ulu Langat,secondary,both,2022-01-01,4600
+Selangor,Ulu Langat,secondary,both,2023-06-30,4494
+Selangor,Ulu Langat,secondary,both,2024-06-30,4485
+Selangor,Ulu Langat,secondary,both,2025-06-30,4463
+Selangor,Ulu Langat,secondary,female,2017-01-01,3993
+Selangor,Ulu Langat,secondary,female,2018-01-01,3986
+Selangor,Ulu Langat,secondary,female,2019-01-01,3934
+Selangor,Ulu Langat,secondary,female,2020-01-01,3874
+Selangor,Ulu Langat,secondary,female,2021-01-01,3791
+Selangor,Ulu Langat,secondary,female,2022-01-01,3931
+Selangor,Ulu Langat,secondary,female,2023-06-30,3830
+Selangor,Ulu Langat,secondary,female,2024-06-30,3809
+Selangor,Ulu Langat,secondary,female,2025-06-30,3774
+Selangor,Ulu Langat,secondary,male,2017-01-01,667
+Selangor,Ulu Langat,secondary,male,2018-01-01,674
+Selangor,Ulu Langat,secondary,male,2019-01-01,666
+Selangor,Ulu Langat,secondary,male,2020-01-01,665
+Selangor,Ulu Langat,secondary,male,2021-01-01,634
+Selangor,Ulu Langat,secondary,male,2022-01-01,669
+Selangor,Ulu Langat,secondary,male,2023-06-30,664
+Selangor,Ulu Langat,secondary,male,2024-06-30,676
+Selangor,Ulu Langat,secondary,male,2025-06-30,689
+Selangor,Ulu Selangor,primary,both,2017-01-01,1887
+Selangor,Ulu Selangor,primary,both,2018-01-01,1941
+Selangor,Ulu Selangor,primary,both,2019-01-01,1916
+Selangor,Ulu Selangor,primary,both,2020-01-01,1934
+Selangor,Ulu Selangor,primary,both,2021-01-01,1930
+Selangor,Ulu Selangor,primary,both,2022-01-01,1913
+Selangor,Ulu Selangor,primary,both,2023-06-30,1895
+Selangor,Ulu Selangor,primary,both,2024-06-30,1940
+Selangor,Ulu Selangor,primary,both,2025-06-30,1927
+Selangor,Ulu Selangor,primary,female,2017-01-01,1418
+Selangor,Ulu Selangor,primary,female,2018-01-01,1488
+Selangor,Ulu Selangor,primary,female,2019-01-01,1476
+Selangor,Ulu Selangor,primary,female,2020-01-01,1473
+Selangor,Ulu Selangor,primary,female,2021-01-01,1472
+Selangor,Ulu Selangor,primary,female,2022-01-01,1473
+Selangor,Ulu Selangor,primary,female,2023-06-30,1455
+Selangor,Ulu Selangor,primary,female,2024-06-30,1491
+Selangor,Ulu Selangor,primary,female,2025-06-30,1486
+Selangor,Ulu Selangor,primary,male,2017-01-01,469
+Selangor,Ulu Selangor,primary,male,2018-01-01,453
+Selangor,Ulu Selangor,primary,male,2019-01-01,440
+Selangor,Ulu Selangor,primary,male,2020-01-01,461
+Selangor,Ulu Selangor,primary,male,2021-01-01,458
+Selangor,Ulu Selangor,primary,male,2022-01-01,440
+Selangor,Ulu Selangor,primary,male,2023-06-30,440
+Selangor,Ulu Selangor,primary,male,2024-06-30,449
+Selangor,Ulu Selangor,primary,male,2025-06-30,441
+Selangor,Ulu Selangor,secondary,both,2017-01-01,1381
+Selangor,Ulu Selangor,secondary,both,2018-01-01,1371
+Selangor,Ulu Selangor,secondary,both,2019-01-01,1362
+Selangor,Ulu Selangor,secondary,both,2020-01-01,1349
+Selangor,Ulu Selangor,secondary,both,2021-01-01,1324
+Selangor,Ulu Selangor,secondary,both,2022-01-01,1361
+Selangor,Ulu Selangor,secondary,both,2023-06-30,1342
+Selangor,Ulu Selangor,secondary,both,2024-06-30,1340
+Selangor,Ulu Selangor,secondary,both,2025-06-30,1340
+Selangor,Ulu Selangor,secondary,female,2017-01-01,1095
+Selangor,Ulu Selangor,secondary,female,2018-01-01,1081
+Selangor,Ulu Selangor,secondary,female,2019-01-01,1083
+Selangor,Ulu Selangor,secondary,female,2020-01-01,1078
+Selangor,Ulu Selangor,secondary,female,2021-01-01,1067
+Selangor,Ulu Selangor,secondary,female,2022-01-01,1092
+Selangor,Ulu Selangor,secondary,female,2023-06-30,1076
+Selangor,Ulu Selangor,secondary,female,2024-06-30,1073
+Selangor,Ulu Selangor,secondary,female,2025-06-30,1070
+Selangor,Ulu Selangor,secondary,male,2017-01-01,286
+Selangor,Ulu Selangor,secondary,male,2018-01-01,290
+Selangor,Ulu Selangor,secondary,male,2019-01-01,279
+Selangor,Ulu Selangor,secondary,male,2020-01-01,271
+Selangor,Ulu Selangor,secondary,male,2021-01-01,257
+Selangor,Ulu Selangor,secondary,male,2022-01-01,269
+Selangor,Ulu Selangor,secondary,male,2023-06-30,266
+Selangor,Ulu Selangor,secondary,male,2024-06-30,267
+Selangor,Ulu Selangor,secondary,male,2025-06-30,270
+Selangor,Klang,primary,both,2017-01-01,5651
+Selangor,Klang,primary,both,2018-01-01,5778
+Selangor,Klang,primary,both,2019-01-01,5680
+Selangor,Klang,primary,both,2020-01-01,5747
+Selangor,Klang,primary,both,2021-01-01,5727
+Selangor,Klang,primary,both,2022-01-01,5632
+Selangor,Klang,primary,both,2023-06-30,5608
+Selangor,Klang,primary,both,2024-06-30,5725
+Selangor,Klang,primary,both,2025-06-30,5750
+Selangor,Klang,primary,female,2017-01-01,4423
+Selangor,Klang,primary,female,2018-01-01,4528
+Selangor,Klang,primary,female,2019-01-01,4468
+Selangor,Klang,primary,female,2020-01-01,4501
+Selangor,Klang,primary,female,2021-01-01,4495
+Selangor,Klang,primary,female,2022-01-01,4440
+Selangor,Klang,primary,female,2023-06-30,4419
+Selangor,Klang,primary,female,2024-06-30,4517
+Selangor,Klang,primary,female,2025-06-30,4520
+Selangor,Klang,primary,male,2017-01-01,1228
+Selangor,Klang,primary,male,2018-01-01,1250
+Selangor,Klang,primary,male,2019-01-01,1212
+Selangor,Klang,primary,male,2020-01-01,1246
+Selangor,Klang,primary,male,2021-01-01,1232
+Selangor,Klang,primary,male,2022-01-01,1192
+Selangor,Klang,primary,male,2023-06-30,1189
+Selangor,Klang,primary,male,2024-06-30,1208
+Selangor,Klang,primary,male,2025-06-30,1230
+Selangor,Klang,secondary,both,2017-01-01,4291
+Selangor,Klang,secondary,both,2018-01-01,4293
+Selangor,Klang,secondary,both,2019-01-01,4274
+Selangor,Klang,secondary,both,2020-01-01,4203
+Selangor,Klang,secondary,both,2021-01-01,4104
+Selangor,Klang,secondary,both,2022-01-01,4289
+Selangor,Klang,secondary,both,2023-06-30,4187
+Selangor,Klang,secondary,both,2024-06-30,4158
+Selangor,Klang,secondary,both,2025-06-30,4120
+Selangor,Klang,secondary,female,2017-01-01,3590
+Selangor,Klang,secondary,female,2018-01-01,3578
+Selangor,Klang,secondary,female,2019-01-01,3562
+Selangor,Klang,secondary,female,2020-01-01,3510
+Selangor,Klang,secondary,female,2021-01-01,3427
+Selangor,Klang,secondary,female,2022-01-01,3559
+Selangor,Klang,secondary,female,2023-06-30,3471
+Selangor,Klang,secondary,female,2024-06-30,3445
+Selangor,Klang,secondary,female,2025-06-30,3408
+Selangor,Klang,secondary,male,2017-01-01,701
+Selangor,Klang,secondary,male,2018-01-01,715
+Selangor,Klang,secondary,male,2019-01-01,712
+Selangor,Klang,secondary,male,2020-01-01,693
+Selangor,Klang,secondary,male,2021-01-01,677
+Selangor,Klang,secondary,male,2022-01-01,730
+Selangor,Klang,secondary,male,2023-06-30,716
+Selangor,Klang,secondary,male,2024-06-30,713
+Selangor,Klang,secondary,male,2025-06-30,712
+Selangor,Kuala Langat,primary,both,2017-01-01,2019
+Selangor,Kuala Langat,primary,both,2018-01-01,2069
+Selangor,Kuala Langat,primary,both,2019-01-01,2077
+Selangor,Kuala Langat,primary,both,2020-01-01,2148
+Selangor,Kuala Langat,primary,both,2021-01-01,2151
+Selangor,Kuala Langat,primary,both,2022-01-01,2160
+Selangor,Kuala Langat,primary,both,2023-06-30,2158
+Selangor,Kuala Langat,primary,both,2024-06-30,2301
+Selangor,Kuala Langat,primary,both,2025-06-30,2328
+Selangor,Kuala Langat,primary,female,2017-01-01,1518
+Selangor,Kuala Langat,primary,female,2018-01-01,1583
+Selangor,Kuala Langat,primary,female,2019-01-01,1596
+Selangor,Kuala Langat,primary,female,2020-01-01,1628
+Selangor,Kuala Langat,primary,female,2021-01-01,1623
+Selangor,Kuala Langat,primary,female,2022-01-01,1638
+Selangor,Kuala Langat,primary,female,2023-06-30,1651
+Selangor,Kuala Langat,primary,female,2024-06-30,1754
+Selangor,Kuala Langat,primary,female,2025-06-30,1776
+Selangor,Kuala Langat,primary,male,2017-01-01,501
+Selangor,Kuala Langat,primary,male,2018-01-01,486
+Selangor,Kuala Langat,primary,male,2019-01-01,481
+Selangor,Kuala Langat,primary,male,2020-01-01,520
+Selangor,Kuala Langat,primary,male,2021-01-01,528
+Selangor,Kuala Langat,primary,male,2022-01-01,522
+Selangor,Kuala Langat,primary,male,2023-06-30,507
+Selangor,Kuala Langat,primary,male,2024-06-30,547
+Selangor,Kuala Langat,primary,male,2025-06-30,552
+Selangor,Kuala Langat,secondary,both,2017-01-01,1576
+Selangor,Kuala Langat,secondary,both,2018-01-01,1594
+Selangor,Kuala Langat,secondary,both,2019-01-01,1606
+Selangor,Kuala Langat,secondary,both,2020-01-01,1609
+Selangor,Kuala Langat,secondary,both,2021-01-01,1591
+Selangor,Kuala Langat,secondary,both,2022-01-01,1690
+Selangor,Kuala Langat,secondary,both,2023-06-30,1667
+Selangor,Kuala Langat,secondary,both,2024-06-30,1711
+Selangor,Kuala Langat,secondary,both,2025-06-30,1742
+Selangor,Kuala Langat,secondary,female,2017-01-01,1172
+Selangor,Kuala Langat,secondary,female,2018-01-01,1197
+Selangor,Kuala Langat,secondary,female,2019-01-01,1211
+Selangor,Kuala Langat,secondary,female,2020-01-01,1231
+Selangor,Kuala Langat,secondary,female,2021-01-01,1221
+Selangor,Kuala Langat,secondary,female,2022-01-01,1303
+Selangor,Kuala Langat,secondary,female,2023-06-30,1297
+Selangor,Kuala Langat,secondary,female,2024-06-30,1337
+Selangor,Kuala Langat,secondary,female,2025-06-30,1371
+Selangor,Kuala Langat,secondary,male,2017-01-01,404
+Selangor,Kuala Langat,secondary,male,2018-01-01,397
+Selangor,Kuala Langat,secondary,male,2019-01-01,395
+Selangor,Kuala Langat,secondary,male,2020-01-01,378
+Selangor,Kuala Langat,secondary,male,2021-01-01,370
+Selangor,Kuala Langat,secondary,male,2022-01-01,387
+Selangor,Kuala Langat,secondary,male,2023-06-30,370
+Selangor,Kuala Langat,secondary,male,2024-06-30,374
+Selangor,Kuala Langat,secondary,male,2025-06-30,371
+Selangor,Kuala Selangor,primary,both,2017-01-01,2288
+Selangor,Kuala Selangor,primary,both,2018-01-01,2351
+Selangor,Kuala Selangor,primary,both,2019-01-01,2347
+Selangor,Kuala Selangor,primary,both,2020-01-01,2356
+Selangor,Kuala Selangor,primary,both,2021-01-01,2317
+Selangor,Kuala Selangor,primary,both,2022-01-01,2323
+Selangor,Kuala Selangor,primary,both,2023-06-30,2345
+Selangor,Kuala Selangor,primary,both,2024-06-30,2378
+Selangor,Kuala Selangor,primary,both,2025-06-30,2394
+Selangor,Kuala Selangor,primary,female,2017-01-01,1708
+Selangor,Kuala Selangor,primary,female,2018-01-01,1798
+Selangor,Kuala Selangor,primary,female,2019-01-01,1797
+Selangor,Kuala Selangor,primary,female,2020-01-01,1802
+Selangor,Kuala Selangor,primary,female,2021-01-01,1772
+Selangor,Kuala Selangor,primary,female,2022-01-01,1772
+Selangor,Kuala Selangor,primary,female,2023-06-30,1794
+Selangor,Kuala Selangor,primary,female,2024-06-30,1822
+Selangor,Kuala Selangor,primary,female,2025-06-30,1826
+Selangor,Kuala Selangor,primary,male,2017-01-01,580
+Selangor,Kuala Selangor,primary,male,2018-01-01,553
+Selangor,Kuala Selangor,primary,male,2019-01-01,550
+Selangor,Kuala Selangor,primary,male,2020-01-01,554
+Selangor,Kuala Selangor,primary,male,2021-01-01,545
+Selangor,Kuala Selangor,primary,male,2022-01-01,551
+Selangor,Kuala Selangor,primary,male,2023-06-30,551
+Selangor,Kuala Selangor,primary,male,2024-06-30,556
+Selangor,Kuala Selangor,primary,male,2025-06-30,568
+Selangor,Kuala Selangor,secondary,both,2017-01-01,1728
+Selangor,Kuala Selangor,secondary,both,2018-01-01,1749
+Selangor,Kuala Selangor,secondary,both,2019-01-01,1754
+Selangor,Kuala Selangor,secondary,both,2020-01-01,1706
+Selangor,Kuala Selangor,secondary,both,2021-01-01,1676
+Selangor,Kuala Selangor,secondary,both,2022-01-01,1784
+Selangor,Kuala Selangor,secondary,both,2023-06-30,1758
+Selangor,Kuala Selangor,secondary,both,2024-06-30,1774
+Selangor,Kuala Selangor,secondary,both,2025-06-30,1793
+Selangor,Kuala Selangor,secondary,female,2017-01-01,1241
+Selangor,Kuala Selangor,secondary,female,2018-01-01,1282
+Selangor,Kuala Selangor,secondary,female,2019-01-01,1301
+Selangor,Kuala Selangor,secondary,female,2020-01-01,1277
+Selangor,Kuala Selangor,secondary,female,2021-01-01,1265
+Selangor,Kuala Selangor,secondary,female,2022-01-01,1364
+Selangor,Kuala Selangor,secondary,female,2023-06-30,1356
+Selangor,Kuala Selangor,secondary,female,2024-06-30,1372
+Selangor,Kuala Selangor,secondary,female,2025-06-30,1390
+Selangor,Kuala Selangor,secondary,male,2017-01-01,487
+Selangor,Kuala Selangor,secondary,male,2018-01-01,467
+Selangor,Kuala Selangor,secondary,male,2019-01-01,453
+Selangor,Kuala Selangor,secondary,male,2020-01-01,429
+Selangor,Kuala Selangor,secondary,male,2021-01-01,411
+Selangor,Kuala Selangor,secondary,male,2022-01-01,420
+Selangor,Kuala Selangor,secondary,male,2023-06-30,402
+Selangor,Kuala Selangor,secondary,male,2024-06-30,402
+Selangor,Kuala Selangor,secondary,male,2025-06-30,403
+Selangor,Petaling,primary,both,2017-01-01,8795
+Selangor,Petaling,primary,both,2018-01-01,9251
+Selangor,Petaling,primary,both,2019-01-01,9025
+Selangor,Petaling,primary,both,2020-01-01,9295
+Selangor,Petaling,primary,both,2021-01-01,9344
+Selangor,Petaling,primary,both,2022-01-01,9235
+Selangor,Petaling,primary,female,2017-01-01,6983
+Selangor,Petaling,primary,female,2018-01-01,7301
+Selangor,Petaling,primary,female,2019-01-01,7107
+Selangor,Petaling,primary,female,2020-01-01,7238
+Selangor,Petaling,primary,female,2021-01-01,7259
+Selangor,Petaling,primary,female,2022-01-01,7166
+Selangor,Petaling,primary,male,2017-01-01,1812
+Selangor,Petaling,primary,male,2018-01-01,1950
+Selangor,Petaling,primary,male,2019-01-01,1918
+Selangor,Petaling,primary,male,2020-01-01,2057
+Selangor,Petaling,primary,male,2021-01-01,2085
+Selangor,Petaling,primary,male,2022-01-01,2069
+Selangor,Petaling,secondary,both,2017-01-01,7000
+Selangor,Petaling,secondary,both,2018-01-01,7080
+Selangor,Petaling,secondary,both,2019-01-01,7014
+Selangor,Petaling,secondary,both,2020-01-01,6923
+Selangor,Petaling,secondary,both,2021-01-01,6806
+Selangor,Petaling,secondary,both,2022-01-01,7144
+Selangor,Petaling,secondary,female,2017-01-01,6042
+Selangor,Petaling,secondary,female,2018-01-01,6074
+Selangor,Petaling,secondary,female,2019-01-01,5993
+Selangor,Petaling,secondary,female,2020-01-01,5900
+Selangor,Petaling,secondary,female,2021-01-01,5791
+Selangor,Petaling,secondary,female,2022-01-01,6004
+Selangor,Petaling,secondary,male,2017-01-01,958
+Selangor,Petaling,secondary,male,2018-01-01,1006
+Selangor,Petaling,secondary,male,2019-01-01,1021
+Selangor,Petaling,secondary,male,2020-01-01,1023
+Selangor,Petaling,secondary,male,2021-01-01,1015
+Selangor,Petaling,secondary,male,2022-01-01,1140
+Selangor,Sabak Bernam,primary,both,2017-01-01,1267
+Selangor,Sabak Bernam,primary,both,2018-01-01,1231
+Selangor,Sabak Bernam,primary,both,2019-01-01,1201
+Selangor,Sabak Bernam,primary,both,2020-01-01,1175
+Selangor,Sabak Bernam,primary,both,2021-01-01,1142
+Selangor,Sabak Bernam,primary,both,2022-01-01,1138
+Selangor,Sabak Bernam,primary,both,2023-06-30,1117
+Selangor,Sabak Bernam,primary,both,2024-06-30,1100
+Selangor,Sabak Bernam,primary,both,2025-06-30,1110
+Selangor,Sabak Bernam,primary,female,2017-01-01,812
+Selangor,Sabak Bernam,primary,female,2018-01-01,813
+Selangor,Sabak Bernam,primary,female,2019-01-01,792
+Selangor,Sabak Bernam,primary,female,2020-01-01,784
+Selangor,Sabak Bernam,primary,female,2021-01-01,771
+Selangor,Sabak Bernam,primary,female,2022-01-01,768
+Selangor,Sabak Bernam,primary,female,2023-06-30,759
+Selangor,Sabak Bernam,primary,female,2024-06-30,746
+Selangor,Sabak Bernam,primary,female,2025-06-30,757
+Selangor,Sabak Bernam,primary,male,2017-01-01,455
+Selangor,Sabak Bernam,primary,male,2018-01-01,418
+Selangor,Sabak Bernam,primary,male,2019-01-01,409
+Selangor,Sabak Bernam,primary,male,2020-01-01,391
+Selangor,Sabak Bernam,primary,male,2021-01-01,371
+Selangor,Sabak Bernam,primary,male,2022-01-01,370
+Selangor,Sabak Bernam,primary,male,2023-06-30,358
+Selangor,Sabak Bernam,primary,male,2024-06-30,354
+Selangor,Sabak Bernam,primary,male,2025-06-30,353
+Selangor,Sabak Bernam,secondary,both,2017-01-01,1284
+Selangor,Sabak Bernam,secondary,both,2018-01-01,1273
+Selangor,Sabak Bernam,secondary,both,2019-01-01,1242
+Selangor,Sabak Bernam,secondary,both,2020-01-01,1189
+Selangor,Sabak Bernam,secondary,both,2021-01-01,1158
+Selangor,Sabak Bernam,secondary,both,2022-01-01,1195
+Selangor,Sabak Bernam,secondary,both,2023-06-30,1191
+Selangor,Sabak Bernam,secondary,both,2024-06-30,1184
+Selangor,Sabak Bernam,secondary,both,2025-06-30,1154
+Selangor,Sabak Bernam,secondary,female,2017-01-01,761
+Selangor,Sabak Bernam,secondary,female,2018-01-01,771
+Selangor,Sabak Bernam,secondary,female,2019-01-01,750
+Selangor,Sabak Bernam,secondary,female,2020-01-01,728
+Selangor,Sabak Bernam,secondary,female,2021-01-01,717
+Selangor,Sabak Bernam,secondary,female,2022-01-01,748
+Selangor,Sabak Bernam,secondary,female,2023-06-30,754
+Selangor,Sabak Bernam,secondary,female,2024-06-30,763
+Selangor,Sabak Bernam,secondary,female,2025-06-30,753
+Selangor,Sabak Bernam,secondary,male,2017-01-01,523
+Selangor,Sabak Bernam,secondary,male,2018-01-01,502
+Selangor,Sabak Bernam,secondary,male,2019-01-01,492
+Selangor,Sabak Bernam,secondary,male,2020-01-01,461
+Selangor,Sabak Bernam,secondary,male,2021-01-01,441
+Selangor,Sabak Bernam,secondary,male,2022-01-01,447
+Selangor,Sabak Bernam,secondary,male,2023-06-30,437
+Selangor,Sabak Bernam,secondary,male,2024-06-30,421
+Selangor,Sabak Bernam,secondary,male,2025-06-30,401
+Selangor,Sepang,primary,both,2017-01-01,1626
+Selangor,Sepang,primary,both,2018-01-01,1720
+Selangor,Sepang,primary,both,2019-01-01,1746
+Selangor,Sepang,primary,both,2020-01-01,1792
+Selangor,Sepang,primary,both,2021-01-01,1850
+Selangor,Sepang,primary,both,2022-01-01,1911
+Selangor,Sepang,primary,both,2023-06-30,1932
+Selangor,Sepang,primary,both,2024-06-30,1996
+Selangor,Sepang,primary,both,2025-06-30,2029
+Selangor,Sepang,primary,female,2017-01-01,1321
+Selangor,Sepang,primary,female,2018-01-01,1405
+Selangor,Sepang,primary,female,2019-01-01,1414
+Selangor,Sepang,primary,female,2020-01-01,1443
+Selangor,Sepang,primary,female,2021-01-01,1492
+Selangor,Sepang,primary,female,2022-01-01,1534
+Selangor,Sepang,primary,female,2023-06-30,1544
+Selangor,Sepang,primary,female,2024-06-30,1586
+Selangor,Sepang,primary,female,2025-06-30,1621
+Selangor,Sepang,primary,male,2017-01-01,305
+Selangor,Sepang,primary,male,2018-01-01,315
+Selangor,Sepang,primary,male,2019-01-01,332
+Selangor,Sepang,primary,male,2020-01-01,349
+Selangor,Sepang,primary,male,2021-01-01,358
+Selangor,Sepang,primary,male,2022-01-01,377
+Selangor,Sepang,primary,male,2023-06-30,388
+Selangor,Sepang,primary,male,2024-06-30,410
+Selangor,Sepang,primary,male,2025-06-30,408
+Selangor,Sepang,secondary,both,2017-01-01,1187
+Selangor,Sepang,secondary,both,2018-01-01,1236
+Selangor,Sepang,secondary,both,2019-01-01,1265
+Selangor,Sepang,secondary,both,2020-01-01,1263
+Selangor,Sepang,secondary,both,2021-01-01,1258
+Selangor,Sepang,secondary,both,2022-01-01,1319
+Selangor,Sepang,secondary,both,2023-06-30,1319
+Selangor,Sepang,secondary,both,2024-06-30,1352
+Selangor,Sepang,secondary,both,2025-06-30,1371
+Selangor,Sepang,secondary,female,2017-01-01,998
+Selangor,Sepang,secondary,female,2018-01-01,1036
+Selangor,Sepang,secondary,female,2019-01-01,1056
+Selangor,Sepang,secondary,female,2020-01-01,1055
+Selangor,Sepang,secondary,female,2021-01-01,1049
+Selangor,Sepang,secondary,female,2022-01-01,1096
+Selangor,Sepang,secondary,female,2023-06-30,1099
+Selangor,Sepang,secondary,female,2024-06-30,1130
+Selangor,Sepang,secondary,female,2025-06-30,1153
+Selangor,Sepang,secondary,male,2017-01-01,189
+Selangor,Sepang,secondary,male,2018-01-01,200
+Selangor,Sepang,secondary,male,2019-01-01,209
+Selangor,Sepang,secondary,male,2020-01-01,208
+Selangor,Sepang,secondary,male,2021-01-01,209
+Selangor,Sepang,secondary,male,2022-01-01,223
+Selangor,Sepang,secondary,male,2023-06-30,220
+Selangor,Sepang,secondary,male,2024-06-30,222
+Selangor,Sepang,secondary,male,2025-06-30,218
+Selangor,Petaling Perdana,primary,both,2023-06-30,6490
+Selangor,Petaling Perdana,primary,both,2024-06-30,6573
+Selangor,Petaling Perdana,primary,both,2025-06-30,6593
+Selangor,Petaling Perdana,primary,female,2023-06-30,5139
+Selangor,Petaling Perdana,primary,female,2024-06-30,5179
+Selangor,Petaling Perdana,primary,female,2025-06-30,5201
+Selangor,Petaling Perdana,primary,male,2023-06-30,1351
+Selangor,Petaling Perdana,primary,male,2024-06-30,1394
+Selangor,Petaling Perdana,primary,male,2025-06-30,1392
+Selangor,Petaling Perdana,secondary,both,2023-06-30,4779
+Selangor,Petaling Perdana,secondary,both,2024-06-30,4756
+Selangor,Petaling Perdana,secondary,both,2025-06-30,4727
+Selangor,Petaling Perdana,secondary,female,2023-06-30,4045
+Selangor,Petaling Perdana,secondary,female,2024-06-30,4020
+Selangor,Petaling Perdana,secondary,female,2025-06-30,3986
+Selangor,Petaling Perdana,secondary,male,2023-06-30,734
+Selangor,Petaling Perdana,secondary,male,2024-06-30,736
+Selangor,Petaling Perdana,secondary,male,2025-06-30,741
+Selangor,Petaling Utama,primary,both,2023-06-30,2770
+Selangor,Petaling Utama,primary,both,2024-06-30,2817
+Selangor,Petaling Utama,primary,both,2025-06-30,2815
+Selangor,Petaling Utama,primary,female,2023-06-30,2034
+Selangor,Petaling Utama,primary,female,2024-06-30,2062
+Selangor,Petaling Utama,primary,female,2025-06-30,2066
+Selangor,Petaling Utama,primary,male,2023-06-30,736
+Selangor,Petaling Utama,primary,male,2024-06-30,755
+Selangor,Petaling Utama,primary,male,2025-06-30,749
+Selangor,Petaling Utama,secondary,both,2023-06-30,2152
+Selangor,Petaling Utama,secondary,both,2024-06-30,2145
+Selangor,Petaling Utama,secondary,both,2025-06-30,2116
+Selangor,Petaling Utama,secondary,female,2023-06-30,1751
+Selangor,Petaling Utama,secondary,female,2024-06-30,1730
+Selangor,Petaling Utama,secondary,female,2025-06-30,1702
+Selangor,Petaling Utama,secondary,male,2023-06-30,401
+Selangor,Petaling Utama,secondary,male,2024-06-30,415
+Selangor,Petaling Utama,secondary,male,2025-06-30,414
