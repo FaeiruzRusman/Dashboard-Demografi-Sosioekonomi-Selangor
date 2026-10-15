@@ -1,0 +1,595 @@
+series,state,district,date,sector,value
+abs,Selangor,Gombak,2015-01-01,p0,23040.0098
+abs,Selangor,Gombak,2015-01-01,p1,115.7054
+abs,Selangor,Gombak,2015-01-01,p2,42.5334
+abs,Selangor,Gombak,2015-01-01,p3,6175.224
+abs,Selangor,Gombak,2015-01-01,p4,677.801
+abs,Selangor,Gombak,2015-01-01,p5,15270.7049
+abs,Selangor,Gombak,2016-01-01,p0,24317.4679
+abs,Selangor,Gombak,2016-01-01,p1,116.3785
+abs,Selangor,Gombak,2016-01-01,p2,47.8426
+abs,Selangor,Gombak,2016-01-01,p3,6637.7292
+abs,Selangor,Gombak,2016-01-01,p4,872.2712
+abs,Selangor,Gombak,2016-01-01,p5,15852.9452
+abs,Selangor,Gombak,2017-01-01,p0,25643.6933
+abs,Selangor,Gombak,2017-01-01,p1,118.6703
+abs,Selangor,Gombak,2017-01-01,p2,53.6435
+abs,Selangor,Gombak,2017-01-01,p3,6963.7618
+abs,Selangor,Gombak,2017-01-01,p4,1060.6513
+abs,Selangor,Gombak,2017-01-01,p5,16657.6982
+abs,Selangor,Gombak,2018-01-01,p0,27213.5106
+abs,Selangor,Gombak,2018-01-01,p1,124.6951
+abs,Selangor,Gombak,2018-01-01,p2,55.5755
+abs,Selangor,Gombak,2018-01-01,p3,7333.5992
+abs,Selangor,Gombak,2018-01-01,p4,1147.4393
+abs,Selangor,Gombak,2018-01-01,p5,17837.7128
+abs,Selangor,Gombak,2019-01-01,p0,28794.2581
+abs,Selangor,Gombak,2019-01-01,p1,136.4707
+abs,Selangor,Gombak,2019-01-01,p2,64.8555
+abs,Selangor,Gombak,2019-01-01,p3,7660.3189
+abs,Selangor,Gombak,2019-01-01,p4,1376.8153
+abs,Selangor,Gombak,2019-01-01,p5,18783.2909
+abs,Selangor,Gombak,2020-01-01,p0,27484.4903
+abs,Selangor,Gombak,2020-01-01,p1,141.7109
+abs,Selangor,Gombak,2020-01-01,p2,56.0406
+abs,Selangor,Gombak,2020-01-01,p3,7506.3691
+abs,Selangor,Gombak,2020-01-01,p4,917.1355
+abs,Selangor,Gombak,2020-01-01,p5,18189.5197
+abs,Selangor,Klang,2015-01-01,p0,40865.7044
+abs,Selangor,Klang,2015-01-01,p1,413.1892
+abs,Selangor,Klang,2015-01-01,p2,15.2599
+abs,Selangor,Klang,2015-01-01,p3,13895.0072
+abs,Selangor,Klang,2015-01-01,p4,1485.0789
+abs,Selangor,Klang,2015-01-01,p5,23761.0381
+abs,Selangor,Klang,2016-01-01,p0,43058.7262
+abs,Selangor,Klang,2016-01-01,p1,418.5964
+abs,Selangor,Klang,2016-01-01,p2,19.1554
+abs,Selangor,Klang,2016-01-01,p3,14459.4536
+abs,Selangor,Klang,2016-01-01,p4,1716.3647
+abs,Selangor,Klang,2016-01-01,p5,25086.7339
+abs,Selangor,Klang,2017-01-01,p0,46195.9628
+abs,Selangor,Klang,2017-01-01,p1,459.6086
+abs,Selangor,Klang,2017-01-01,p2,18.8911
+abs,Selangor,Klang,2017-01-01,p3,15699.5074
+abs,Selangor,Klang,2017-01-01,p4,2052.786
+abs,Selangor,Klang,2017-01-01,p5,26581.4097
+abs,Selangor,Klang,2018-01-01,p0,49744.0739
+abs,Selangor,Klang,2018-01-01,p1,521.0593
+abs,Selangor,Klang,2018-01-01,p2,20.3704
+abs,Selangor,Klang,2018-01-01,p3,17119.063
+abs,Selangor,Klang,2018-01-01,p4,2419.763
+abs,Selangor,Klang,2018-01-01,p5,28396.2266
+abs,Selangor,Klang,2019-01-01,p0,51344.0328
+abs,Selangor,Klang,2019-01-01,p1,540.9714
+abs,Selangor,Klang,2019-01-01,p2,24.0232
+abs,Selangor,Klang,2019-01-01,p3,17611.4569
+abs,Selangor,Klang,2019-01-01,p4,1759.4474
+abs,Selangor,Klang,2019-01-01,p5,30071.9009
+abs,Selangor,Klang,2020-01-01,p0,50234.422
+abs,Selangor,Klang,2020-01-01,p1,557.4648
+abs,Selangor,Klang,2020-01-01,p2,23.3675
+abs,Selangor,Klang,2020-01-01,p3,18567.1912
+abs,Selangor,Klang,2020-01-01,p4,1804.3456
+abs,Selangor,Klang,2020-01-01,p5,28033.9912
+abs,Selangor,Kuala Langat,2015-01-01,p0,8602.7639
+abs,Selangor,Kuala Langat,2015-01-01,p1,590.6015
+abs,Selangor,Kuala Langat,2015-01-01,p2,128.8174
+abs,Selangor,Kuala Langat,2015-01-01,p3,3458.3273
+abs,Selangor,Kuala Langat,2015-01-01,p4,504.5237
+abs,Selangor,Kuala Langat,2015-01-01,p5,3637.6675
+abs,Selangor,Kuala Langat,2016-01-01,p0,9059.95
+abs,Selangor,Kuala Langat,2016-01-01,p1,541.867
+abs,Selangor,Kuala Langat,2016-01-01,p2,171.3634
+abs,Selangor,Kuala Langat,2016-01-01,p3,3647.4107
+abs,Selangor,Kuala Langat,2016-01-01,p4,631.8712
+abs,Selangor,Kuala Langat,2016-01-01,p5,3768.6351
+abs,Selangor,Kuala Langat,2017-01-01,p0,9752.6731
+abs,Selangor,Kuala Langat,2017-01-01,p1,614.1492
+abs,Selangor,Kuala Langat,2017-01-01,p2,180.1717
+abs,Selangor,Kuala Langat,2017-01-01,p3,4045.7271
+abs,Selangor,Kuala Langat,2017-01-01,p4,645.4826
+abs,Selangor,Kuala Langat,2017-01-01,p5,3961.4441
+abs,Selangor,Kuala Langat,2018-01-01,p0,10315.2805
+abs,Selangor,Kuala Langat,2018-01-01,p1,631.6283
+abs,Selangor,Kuala Langat,2018-01-01,p2,195.8287
+abs,Selangor,Kuala Langat,2018-01-01,p3,4284.6865
+abs,Selangor,Kuala Langat,2018-01-01,p4,748.1004
+abs,Selangor,Kuala Langat,2018-01-01,p5,4178.5785
+abs,Selangor,Kuala Langat,2019-01-01,p0,10656.3763
+abs,Selangor,Kuala Langat,2019-01-01,p1,683.4515
+abs,Selangor,Kuala Langat,2019-01-01,p2,234.2587
+abs,Selangor,Kuala Langat,2019-01-01,p3,4338.9284
+abs,Selangor,Kuala Langat,2019-01-01,p4,721.8281
+abs,Selangor,Kuala Langat,2019-01-01,p5,4386.9423
+abs,Selangor,Kuala Langat,2020-01-01,p0,10351.0176
+abs,Selangor,Kuala Langat,2020-01-01,p1,660.7647
+abs,Selangor,Kuala Langat,2020-01-01,p2,189.5642
+abs,Selangor,Kuala Langat,2020-01-01,p3,4247.862
+abs,Selangor,Kuala Langat,2020-01-01,p4,774.1114
+abs,Selangor,Kuala Langat,2020-01-01,p5,4223.507
+abs,Selangor,Kuala Selangor,2015-01-01,p0,4643.4346
+abs,Selangor,Kuala Selangor,2015-01-01,p1,858.9431
+abs,Selangor,Kuala Selangor,2015-01-01,p2,8.4617
+abs,Selangor,Kuala Selangor,2015-01-01,p3,784.7313
+abs,Selangor,Kuala Selangor,2015-01-01,p4,357.9218
+abs,Selangor,Kuala Selangor,2015-01-01,p5,2549.0948
+abs,Selangor,Kuala Selangor,2016-01-01,p0,4676.4003
+abs,Selangor,Kuala Selangor,2016-01-01,p1,798.1816
+abs,Selangor,Kuala Selangor,2016-01-01,p2,10.3205
+abs,Selangor,Kuala Selangor,2016-01-01,p3,835.5424
+abs,Selangor,Kuala Selangor,2016-01-01,p4,279.457
+abs,Selangor,Kuala Selangor,2016-01-01,p5,2663.5727
+abs,Selangor,Kuala Selangor,2017-01-01,p0,5000.9022
+abs,Selangor,Kuala Selangor,2017-01-01,p1,920.3579
+abs,Selangor,Kuala Selangor,2017-01-01,p2,10.746
+abs,Selangor,Kuala Selangor,2017-01-01,p3,873.5875
+abs,Selangor,Kuala Selangor,2017-01-01,p4,311.546
+abs,Selangor,Kuala Selangor,2017-01-01,p5,2795.5338
+abs,Selangor,Kuala Selangor,2018-01-01,p0,5231.4501
+abs,Selangor,Kuala Selangor,2018-01-01,p1,944.3939
+abs,Selangor,Kuala Selangor,2018-01-01,p2,11.3609
+abs,Selangor,Kuala Selangor,2018-01-01,p3,884.2983
+abs,Selangor,Kuala Selangor,2018-01-01,p4,367.6863
+abs,Selangor,Kuala Selangor,2018-01-01,p5,2945.219
+abs,Selangor,Kuala Selangor,2019-01-01,p0,5515.6392
+abs,Selangor,Kuala Selangor,2019-01-01,p1,989.712
+abs,Selangor,Kuala Selangor,2019-01-01,p2,13.5093
+abs,Selangor,Kuala Selangor,2019-01-01,p3,933.0178
+abs,Selangor,Kuala Selangor,2019-01-01,p4,419.8231
+abs,Selangor,Kuala Selangor,2019-01-01,p5,3076.5133
+abs,Selangor,Kuala Selangor,2020-01-01,p0,5328.5071
+abs,Selangor,Kuala Selangor,2020-01-01,p1,977.1395
+abs,Selangor,Kuala Selangor,2020-01-01,p2,12.355
+abs,Selangor,Kuala Selangor,2020-01-01,p3,1003.9197
+abs,Selangor,Kuala Selangor,2020-01-01,p4,266.2048
+abs,Selangor,Kuala Selangor,2020-01-01,p5,2990.8241
+abs,Selangor,Petaling,2015-01-01,p0,133683.5978
+abs,Selangor,Petaling,2015-01-01,p1,45.1177
+abs,Selangor,Petaling,2015-01-01,p2,101.8643
+abs,Selangor,Petaling,2015-01-01,p3,34995.4665
+abs,Selangor,Petaling,2015-01-01,p4,10251.253
+abs,Selangor,Petaling,2015-01-01,p5,84208.5676
+abs,Selangor,Petaling,2016-01-01,p0,140236.5153
+abs,Selangor,Petaling,2016-01-01,p1,40.2695
+abs,Selangor,Petaling,2016-01-01,p2,136.5849
+abs,Selangor,Petaling,2016-01-01,p3,36745.6137
+abs,Selangor,Petaling,2016-01-01,p4,8645.8014
+abs,Selangor,Petaling,2016-01-01,p5,90332.0831
+abs,Selangor,Petaling,2017-01-01,p0,151109.6612
+abs,Selangor,Petaling,2017-01-01,p1,42.6135
+abs,Selangor,Petaling,2017-01-01,p2,148.2618
+abs,Selangor,Petaling,2017-01-01,p3,39445.0102
+abs,Selangor,Petaling,2017-01-01,p4,9489.0014
+abs,Selangor,Petaling,2017-01-01,p5,97575.2562
+abs,Selangor,Petaling,2018-01-01,p0,162358.8636
+abs,Selangor,Petaling,2018-01-01,p1,39.5286
+abs,Selangor,Petaling,2018-01-01,p2,154.3112
+abs,Selangor,Petaling,2018-01-01,p3,42176.0954
+abs,Selangor,Petaling,2018-01-01,p4,9954.8118
+abs,Selangor,Petaling,2018-01-01,p5,105994.299
+abs,Selangor,Petaling,2019-01-01,p0,176421.4406
+abs,Selangor,Petaling,2019-01-01,p1,43.5093
+abs,Selangor,Petaling,2019-01-01,p2,169.1911
+abs,Selangor,Petaling,2019-01-01,p3,45071.0027
+abs,Selangor,Petaling,2019-01-01,p4,11942.1774
+abs,Selangor,Petaling,2019-01-01,p5,114769.3526
+abs,Selangor,Petaling,2020-01-01,p0,165748.2258
+abs,Selangor,Petaling,2020-01-01,p1,42.0339
+abs,Selangor,Petaling,2020-01-01,p2,163.5768
+abs,Selangor,Petaling,2020-01-01,p3,43112.7464
+abs,Selangor,Petaling,2020-01-01,p4,11127.7732
+abs,Selangor,Petaling,2020-01-01,p5,107516.087
+abs,Selangor,Sabak Bernam,2015-01-01,p0,1879.4812
+abs,Selangor,Sabak Bernam,2015-01-01,p1,705.3506
+abs,Selangor,Sabak Bernam,2015-01-01,p2,0.0
+abs,Selangor,Sabak Bernam,2015-01-01,p3,101.1006
+abs,Selangor,Sabak Bernam,2015-01-01,p4,31.5969
+abs,Selangor,Sabak Bernam,2015-01-01,p5,1019.5604
+abs,Selangor,Sabak Bernam,2016-01-01,p0,1928.9363
+abs,Selangor,Sabak Bernam,2016-01-01,p1,696.3238
+abs,Selangor,Sabak Bernam,2016-01-01,p2,0.0
+abs,Selangor,Sabak Bernam,2016-01-01,p3,104.3493
+abs,Selangor,Sabak Bernam,2016-01-01,p4,40.6788
+abs,Selangor,Sabak Bernam,2016-01-01,p5,1064.2388
+abs,Selangor,Sabak Bernam,2017-01-01,p0,2092.4426
+abs,Selangor,Sabak Bernam,2017-01-01,p1,807.0649
+abs,Selangor,Sabak Bernam,2017-01-01,p2,0.0
+abs,Selangor,Sabak Bernam,2017-01-01,p3,106.4691
+abs,Selangor,Sabak Bernam,2017-01-01,p4,40.9723
+abs,Selangor,Sabak Bernam,2017-01-01,p5,1115.2663
+abs,Selangor,Sabak Bernam,2018-01-01,p0,2259.498
+abs,Selangor,Sabak Bernam,2018-01-01,p1,916.4586
+abs,Selangor,Sabak Bernam,2018-01-01,p2,0.0
+abs,Selangor,Sabak Bernam,2018-01-01,p3,103.4264
+abs,Selangor,Sabak Bernam,2018-01-01,p4,44.0427
+abs,Selangor,Sabak Bernam,2018-01-01,p5,1175.2881
+abs,Selangor,Sabak Bernam,2019-01-01,p0,2305.3018
+abs,Selangor,Sabak Bernam,2019-01-01,p1,911.2804
+abs,Selangor,Sabak Bernam,2019-01-01,p2,0.0
+abs,Selangor,Sabak Bernam,2019-01-01,p3,106.7963
+abs,Selangor,Sabak Bernam,2019-01-01,p4,50.3566
+abs,Selangor,Sabak Bernam,2019-01-01,p5,1215.521
+abs,Selangor,Sabak Bernam,2020-01-01,p0,2253.3286
+abs,Selangor,Sabak Bernam,2020-01-01,p1,918.1136
+abs,Selangor,Sabak Bernam,2020-01-01,p2,0.0
+abs,Selangor,Sabak Bernam,2020-01-01,p3,106.349
+abs,Selangor,Sabak Bernam,2020-01-01,p4,47.1119
+abs,Selangor,Sabak Bernam,2020-01-01,p5,1162.8559
+abs,Selangor,Sepang,2015-01-01,p0,12539.9724
+abs,Selangor,Sepang,2015-01-01,p1,267.2293
+abs,Selangor,Sepang,2015-01-01,p2,24.5576
+abs,Selangor,Sepang,2015-01-01,p3,344.0735
+abs,Selangor,Sepang,2015-01-01,p4,1328.0977
+abs,Selangor,Sepang,2015-01-01,p5,10450.2617
+abs,Selangor,Sepang,2016-01-01,p0,13276.5055
+abs,Selangor,Sepang,2016-01-01,p1,236.7851
+abs,Selangor,Sepang,2016-01-01,p2,29.5067
+abs,Selangor,Sepang,2016-01-01,p3,356.5552
+abs,Selangor,Sepang,2016-01-01,p4,1653.2435
+abs,Selangor,Sepang,2016-01-01,p5,10869.6289
+abs,Selangor,Sepang,2017-01-01,p0,14048.6239
+abs,Selangor,Sepang,2017-01-01,p1,273.5087
+abs,Selangor,Sepang,2017-01-01,p2,28.7291
+abs,Selangor,Sepang,2017-01-01,p3,359.5335
+abs,Selangor,Sepang,2017-01-01,p4,1720.2545
+abs,Selangor,Sepang,2017-01-01,p5,11534.8982
+abs,Selangor,Sepang,2018-01-01,p0,14825.2619
+abs,Selangor,Sepang,2018-01-01,p1,280.7417
+abs,Selangor,Sepang,2018-01-01,p2,29.6096
+abs,Selangor,Sepang,2018-01-01,p3,388.6691
+abs,Selangor,Sepang,2018-01-01,p4,1830.7301
+abs,Selangor,Sepang,2018-01-01,p5,12174.1823
+abs,Selangor,Sepang,2019-01-01,p0,16009.5188
+abs,Selangor,Sepang,2019-01-01,p1,288.2222
+abs,Selangor,Sepang,2019-01-01,p2,33.7768
+abs,Selangor,Sepang,2019-01-01,p3,383.7046
+abs,Selangor,Sepang,2019-01-01,p4,2366.1555
+abs,Selangor,Sepang,2019-01-01,p5,12804.1871
+abs,Selangor,Sepang,2020-01-01,p0,12628.4314
+abs,Selangor,Sepang,2020-01-01,p1,281.3728
+abs,Selangor,Sepang,2020-01-01,p2,29.4512
+abs,Selangor,Sepang,2020-01-01,p3,469.0411
+abs,Selangor,Sepang,2020-01-01,p4,1993.4264
+abs,Selangor,Sepang,2020-01-01,p5,9739.5535
+abs,Selangor,Ulu Langat,2015-01-01,p0,33839.6563
+abs,Selangor,Ulu Langat,2015-01-01,p1,333.0503
+abs,Selangor,Ulu Langat,2015-01-01,p2,175.0064
+abs,Selangor,Ulu Langat,2015-01-01,p3,10218.3614
+abs,Selangor,Ulu Langat,2015-01-01,p4,1884.34
+abs,Selangor,Ulu Langat,2015-01-01,p5,20226.187
+abs,Selangor,Ulu Langat,2016-01-01,p0,35934.9185
+abs,Selangor,Ulu Langat,2016-01-01,p1,325.2366
+abs,Selangor,Ulu Langat,2016-01-01,p2,225.886
+abs,Selangor,Ulu Langat,2016-01-01,p3,10807.3769
+abs,Selangor,Ulu Langat,2016-01-01,p4,2213.404
+abs,Selangor,Ulu Langat,2016-01-01,p5,21282.5508
+abs,Selangor,Ulu Langat,2017-01-01,p0,38944.7458
+abs,Selangor,Ulu Langat,2017-01-01,p1,344.5841
+abs,Selangor,Ulu Langat,2017-01-01,p2,248.6873
+abs,Selangor,Ulu Langat,2017-01-01,p3,12435.5126
+abs,Selangor,Ulu Langat,2017-01-01,p4,2079.9858
+abs,Selangor,Ulu Langat,2017-01-01,p5,22724.9757
+abs,Selangor,Ulu Langat,2018-01-01,p0,41380.048
+abs,Selangor,Ulu Langat,2018-01-01,p1,356.0059
+abs,Selangor,Ulu Langat,2018-01-01,p2,267.732
+abs,Selangor,Ulu Langat,2018-01-01,p3,13428.6511
+abs,Selangor,Ulu Langat,2018-01-01,p4,1919.6207
+abs,Selangor,Ulu Langat,2018-01-01,p5,24401.5731
+abs,Selangor,Ulu Langat,2019-01-01,p0,43302.5518
+abs,Selangor,Ulu Langat,2019-01-01,p1,379.9702
+abs,Selangor,Ulu Langat,2019-01-01,p2,316.4835
+abs,Selangor,Ulu Langat,2019-01-01,p3,13795.816
+abs,Selangor,Ulu Langat,2019-01-01,p4,1820.9899
+abs,Selangor,Ulu Langat,2019-01-01,p5,25903.1633
+abs,Selangor,Ulu Langat,2020-01-01,p0,42308.7658
+abs,Selangor,Ulu Langat,2020-01-01,p1,396.7484
+abs,Selangor,Ulu Langat,2020-01-01,p2,278.1527
+abs,Selangor,Ulu Langat,2020-01-01,p3,14128.0459
+abs,Selangor,Ulu Langat,2020-01-01,p4,1571.8298
+abs,Selangor,Ulu Langat,2020-01-01,p5,24975.7718
+abs,Selangor,Ulu Selangor,2015-01-01,p0,9730.3743
+abs,Selangor,Ulu Selangor,2015-01-01,p1,746.6115
+abs,Selangor,Ulu Selangor,2015-01-01,p2,
+abs,Selangor,Ulu Selangor,2015-01-01,p3,5565.1107
+abs,Selangor,Ulu Selangor,2015-01-01,p4,153.5518
+abs,Selangor,Ulu Selangor,2015-01-01,p5,2843.9584
+abs,Selangor,Ulu Selangor,2016-01-01,p0,9349.4453
+abs,Selangor,Ulu Selangor,2016-01-01,p1,698.4351
+abs,Selangor,Ulu Selangor,2016-01-01,p2,
+abs,Selangor,Ulu Selangor,2016-01-01,p3,5116.2281
+abs,Selangor,Ulu Selangor,2016-01-01,p4,189.899
+abs,Selangor,Ulu Selangor,2016-01-01,p5,2949.1264
+abs,Selangor,Ulu Selangor,2017-01-01,p0,9397.7453
+abs,Selangor,Ulu Selangor,2017-01-01,p1,738.7283
+abs,Selangor,Ulu Selangor,2017-01-01,p2,
+abs,Selangor,Ulu Selangor,2017-01-01,p3,5034.8851
+abs,Selangor,Ulu Selangor,2017-01-01,p4,179.767
+abs,Selangor,Ulu Selangor,2017-01-01,p5,3071.4392
+abs,Selangor,Ulu Selangor,2018-01-01,p0,9887.4526
+abs,Selangor,Ulu Selangor,2018-01-01,p1,720.1398
+abs,Selangor,Ulu Selangor,2018-01-01,p2,
+abs,Selangor,Ulu Selangor,2018-01-01,p3,5414.4895
+abs,Selangor,Ulu Selangor,2018-01-01,p4,213.5743
+abs,Selangor,Ulu Selangor,2018-01-01,p5,3220.4271
+abs,Selangor,Ulu Selangor,2019-01-01,p0,10659.3417
+abs,Selangor,Ulu Selangor,2019-01-01,p1,735.3142
+abs,Selangor,Ulu Selangor,2019-01-01,p2,
+abs,Selangor,Ulu Selangor,2019-01-01,p3,6040.7783
+abs,Selangor,Ulu Selangor,2019-01-01,p4,206.3605
+abs,Selangor,Ulu Selangor,2019-01-01,p5,3337.0098
+abs,Selangor,Ulu Selangor,2020-01-01,p0,10468.1113
+abs,Selangor,Ulu Selangor,2020-01-01,p1,745.8728
+abs,Selangor,Ulu Selangor,2020-01-01,p2,
+abs,Selangor,Ulu Selangor,2020-01-01,p3,5972.1031
+abs,Selangor,Ulu Selangor,2020-01-01,p4,162.997
+abs,Selangor,Ulu Selangor,2020-01-01,p5,3295.3265
+growth_yoy,Selangor,Gombak,2016-01-01,p0,5.5
+growth_yoy,Selangor,Gombak,2016-01-01,p1,0.6
+growth_yoy,Selangor,Gombak,2016-01-01,p2,12.5
+growth_yoy,Selangor,Gombak,2016-01-01,p3,7.5
+growth_yoy,Selangor,Gombak,2016-01-01,p4,28.7
+growth_yoy,Selangor,Gombak,2016-01-01,p5,3.8
+growth_yoy,Selangor,Gombak,2017-01-01,p0,5.5
+growth_yoy,Selangor,Gombak,2017-01-01,p1,2.0
+growth_yoy,Selangor,Gombak,2017-01-01,p2,12.1
+growth_yoy,Selangor,Gombak,2017-01-01,p3,4.9
+growth_yoy,Selangor,Gombak,2017-01-01,p4,21.6
+growth_yoy,Selangor,Gombak,2017-01-01,p5,5.1
+growth_yoy,Selangor,Gombak,2018-01-01,p0,6.1
+growth_yoy,Selangor,Gombak,2018-01-01,p1,5.1
+growth_yoy,Selangor,Gombak,2018-01-01,p2,3.6
+growth_yoy,Selangor,Gombak,2018-01-01,p3,5.3
+growth_yoy,Selangor,Gombak,2018-01-01,p4,8.2
+growth_yoy,Selangor,Gombak,2018-01-01,p5,7.1
+growth_yoy,Selangor,Gombak,2019-01-01,p0,5.8
+growth_yoy,Selangor,Gombak,2019-01-01,p1,9.4
+growth_yoy,Selangor,Gombak,2019-01-01,p2,16.7
+growth_yoy,Selangor,Gombak,2019-01-01,p3,4.5
+growth_yoy,Selangor,Gombak,2019-01-01,p4,20.0
+growth_yoy,Selangor,Gombak,2019-01-01,p5,5.3
+growth_yoy,Selangor,Gombak,2020-01-01,p0,-4.5
+growth_yoy,Selangor,Gombak,2020-01-01,p1,3.8
+growth_yoy,Selangor,Gombak,2020-01-01,p2,-13.6
+growth_yoy,Selangor,Gombak,2020-01-01,p3,-2.0
+growth_yoy,Selangor,Gombak,2020-01-01,p4,-33.4
+growth_yoy,Selangor,Gombak,2020-01-01,p5,-3.2
+growth_yoy,Selangor,Klang,2016-01-01,p0,5.4
+growth_yoy,Selangor,Klang,2016-01-01,p1,1.3
+growth_yoy,Selangor,Klang,2016-01-01,p2,25.5
+growth_yoy,Selangor,Klang,2016-01-01,p3,4.1
+growth_yoy,Selangor,Klang,2016-01-01,p4,15.6
+growth_yoy,Selangor,Klang,2016-01-01,p5,5.6
+growth_yoy,Selangor,Klang,2017-01-01,p0,7.3
+growth_yoy,Selangor,Klang,2017-01-01,p1,9.8
+growth_yoy,Selangor,Klang,2017-01-01,p2,-1.4
+growth_yoy,Selangor,Klang,2017-01-01,p3,8.6
+growth_yoy,Selangor,Klang,2017-01-01,p4,19.6
+growth_yoy,Selangor,Klang,2017-01-01,p5,6.0
+growth_yoy,Selangor,Klang,2018-01-01,p0,7.7
+growth_yoy,Selangor,Klang,2018-01-01,p1,13.4
+growth_yoy,Selangor,Klang,2018-01-01,p2,7.8
+growth_yoy,Selangor,Klang,2018-01-01,p3,9.0
+growth_yoy,Selangor,Klang,2018-01-01,p4,17.9
+growth_yoy,Selangor,Klang,2018-01-01,p5,6.8
+growth_yoy,Selangor,Klang,2019-01-01,p0,3.2
+growth_yoy,Selangor,Klang,2019-01-01,p1,3.8
+growth_yoy,Selangor,Klang,2019-01-01,p2,17.9
+growth_yoy,Selangor,Klang,2019-01-01,p3,2.9
+growth_yoy,Selangor,Klang,2019-01-01,p4,-27.3
+growth_yoy,Selangor,Klang,2019-01-01,p5,5.9
+growth_yoy,Selangor,Klang,2020-01-01,p0,-2.2
+growth_yoy,Selangor,Klang,2020-01-01,p1,3.0
+growth_yoy,Selangor,Klang,2020-01-01,p2,-2.7
+growth_yoy,Selangor,Klang,2020-01-01,p3,5.4
+growth_yoy,Selangor,Klang,2020-01-01,p4,2.6
+growth_yoy,Selangor,Klang,2020-01-01,p5,-6.8
+growth_yoy,Selangor,Kuala Langat,2016-01-01,p0,5.3
+growth_yoy,Selangor,Kuala Langat,2016-01-01,p1,-8.3
+growth_yoy,Selangor,Kuala Langat,2016-01-01,p2,33.0
+growth_yoy,Selangor,Kuala Langat,2016-01-01,p3,5.5
+growth_yoy,Selangor,Kuala Langat,2016-01-01,p4,25.2
+growth_yoy,Selangor,Kuala Langat,2016-01-01,p5,3.6
+growth_yoy,Selangor,Kuala Langat,2017-01-01,p0,7.6
+growth_yoy,Selangor,Kuala Langat,2017-01-01,p1,13.3
+growth_yoy,Selangor,Kuala Langat,2017-01-01,p2,5.1
+growth_yoy,Selangor,Kuala Langat,2017-01-01,p3,10.9
+growth_yoy,Selangor,Kuala Langat,2017-01-01,p4,2.2
+growth_yoy,Selangor,Kuala Langat,2017-01-01,p5,5.1
+growth_yoy,Selangor,Kuala Langat,2018-01-01,p0,5.8
+growth_yoy,Selangor,Kuala Langat,2018-01-01,p1,2.8
+growth_yoy,Selangor,Kuala Langat,2018-01-01,p2,8.7
+growth_yoy,Selangor,Kuala Langat,2018-01-01,p3,5.9
+growth_yoy,Selangor,Kuala Langat,2018-01-01,p4,15.9
+growth_yoy,Selangor,Kuala Langat,2018-01-01,p5,5.5
+growth_yoy,Selangor,Kuala Langat,2019-01-01,p0,3.3
+growth_yoy,Selangor,Kuala Langat,2019-01-01,p1,8.2
+growth_yoy,Selangor,Kuala Langat,2019-01-01,p2,19.6
+growth_yoy,Selangor,Kuala Langat,2019-01-01,p3,1.3
+growth_yoy,Selangor,Kuala Langat,2019-01-01,p4,-3.5
+growth_yoy,Selangor,Kuala Langat,2019-01-01,p5,5.0
+growth_yoy,Selangor,Kuala Langat,2020-01-01,p0,-2.9
+growth_yoy,Selangor,Kuala Langat,2020-01-01,p1,-3.3
+growth_yoy,Selangor,Kuala Langat,2020-01-01,p2,-19.1
+growth_yoy,Selangor,Kuala Langat,2020-01-01,p3,-2.1
+growth_yoy,Selangor,Kuala Langat,2020-01-01,p4,7.2
+growth_yoy,Selangor,Kuala Langat,2020-01-01,p5,-3.7
+growth_yoy,Selangor,Kuala Selangor,2016-01-01,p0,0.7
+growth_yoy,Selangor,Kuala Selangor,2016-01-01,p1,-7.1
+growth_yoy,Selangor,Kuala Selangor,2016-01-01,p2,22.0
+growth_yoy,Selangor,Kuala Selangor,2016-01-01,p3,6.5
+growth_yoy,Selangor,Kuala Selangor,2016-01-01,p4,-21.9
+growth_yoy,Selangor,Kuala Selangor,2016-01-01,p5,4.5
+growth_yoy,Selangor,Kuala Selangor,2017-01-01,p0,6.9
+growth_yoy,Selangor,Kuala Selangor,2017-01-01,p1,15.3
+growth_yoy,Selangor,Kuala Selangor,2017-01-01,p2,4.1
+growth_yoy,Selangor,Kuala Selangor,2017-01-01,p3,4.6
+growth_yoy,Selangor,Kuala Selangor,2017-01-01,p4,11.5
+growth_yoy,Selangor,Kuala Selangor,2017-01-01,p5,5.0
+growth_yoy,Selangor,Kuala Selangor,2018-01-01,p0,4.6
+growth_yoy,Selangor,Kuala Selangor,2018-01-01,p1,2.6
+growth_yoy,Selangor,Kuala Selangor,2018-01-01,p2,5.7
+growth_yoy,Selangor,Kuala Selangor,2018-01-01,p3,1.2
+growth_yoy,Selangor,Kuala Selangor,2018-01-01,p4,18.0
+growth_yoy,Selangor,Kuala Selangor,2018-01-01,p5,5.4
+growth_yoy,Selangor,Kuala Selangor,2019-01-01,p0,5.4
+growth_yoy,Selangor,Kuala Selangor,2019-01-01,p1,4.8
+growth_yoy,Selangor,Kuala Selangor,2019-01-01,p2,18.9
+growth_yoy,Selangor,Kuala Selangor,2019-01-01,p3,5.5
+growth_yoy,Selangor,Kuala Selangor,2019-01-01,p4,14.2
+growth_yoy,Selangor,Kuala Selangor,2019-01-01,p5,4.5
+growth_yoy,Selangor,Kuala Selangor,2020-01-01,p0,-3.4
+growth_yoy,Selangor,Kuala Selangor,2020-01-01,p1,-1.3
+growth_yoy,Selangor,Kuala Selangor,2020-01-01,p2,-8.5
+growth_yoy,Selangor,Kuala Selangor,2020-01-01,p3,7.6
+growth_yoy,Selangor,Kuala Selangor,2020-01-01,p4,-36.6
+growth_yoy,Selangor,Kuala Selangor,2020-01-01,p5,-2.8
+growth_yoy,Selangor,Petaling,2016-01-01,p0,4.9
+growth_yoy,Selangor,Petaling,2016-01-01,p1,-10.7
+growth_yoy,Selangor,Petaling,2016-01-01,p2,34.1
+growth_yoy,Selangor,Petaling,2016-01-01,p3,5.0
+growth_yoy,Selangor,Petaling,2016-01-01,p4,-15.7
+growth_yoy,Selangor,Petaling,2016-01-01,p5,7.3
+growth_yoy,Selangor,Petaling,2017-01-01,p0,7.8
+growth_yoy,Selangor,Petaling,2017-01-01,p1,5.8
+growth_yoy,Selangor,Petaling,2017-01-01,p2,8.5
+growth_yoy,Selangor,Petaling,2017-01-01,p3,7.3
+growth_yoy,Selangor,Petaling,2017-01-01,p4,9.8
+growth_yoy,Selangor,Petaling,2017-01-01,p5,8.0
+growth_yoy,Selangor,Petaling,2018-01-01,p0,7.4
+growth_yoy,Selangor,Petaling,2018-01-01,p1,-7.2
+growth_yoy,Selangor,Petaling,2018-01-01,p2,4.1
+growth_yoy,Selangor,Petaling,2018-01-01,p3,6.9
+growth_yoy,Selangor,Petaling,2018-01-01,p4,4.9
+growth_yoy,Selangor,Petaling,2018-01-01,p5,8.6
+growth_yoy,Selangor,Petaling,2019-01-01,p0,8.7
+growth_yoy,Selangor,Petaling,2019-01-01,p1,10.1
+growth_yoy,Selangor,Petaling,2019-01-01,p2,9.6
+growth_yoy,Selangor,Petaling,2019-01-01,p3,6.9
+growth_yoy,Selangor,Petaling,2019-01-01,p4,20.0
+growth_yoy,Selangor,Petaling,2019-01-01,p5,8.3
+growth_yoy,Selangor,Petaling,2020-01-01,p0,-6.0
+growth_yoy,Selangor,Petaling,2020-01-01,p1,-3.4
+growth_yoy,Selangor,Petaling,2020-01-01,p2,-3.3
+growth_yoy,Selangor,Petaling,2020-01-01,p3,-4.3
+growth_yoy,Selangor,Petaling,2020-01-01,p4,-6.8
+growth_yoy,Selangor,Petaling,2020-01-01,p5,-6.3
+growth_yoy,Selangor,Sabak Bernam,2016-01-01,p0,2.6
+growth_yoy,Selangor,Sabak Bernam,2016-01-01,p1,-1.3
+growth_yoy,Selangor,Sabak Bernam,2016-01-01,p2,
+growth_yoy,Selangor,Sabak Bernam,2016-01-01,p3,3.2
+growth_yoy,Selangor,Sabak Bernam,2016-01-01,p4,28.7
+growth_yoy,Selangor,Sabak Bernam,2016-01-01,p5,4.4
+growth_yoy,Selangor,Sabak Bernam,2017-01-01,p0,8.5
+growth_yoy,Selangor,Sabak Bernam,2017-01-01,p1,15.9
+growth_yoy,Selangor,Sabak Bernam,2017-01-01,p2,
+growth_yoy,Selangor,Sabak Bernam,2017-01-01,p3,2.0
+growth_yoy,Selangor,Sabak Bernam,2017-01-01,p4,0.7
+growth_yoy,Selangor,Sabak Bernam,2017-01-01,p5,4.8
+growth_yoy,Selangor,Sabak Bernam,2018-01-01,p0,8.0
+growth_yoy,Selangor,Sabak Bernam,2018-01-01,p1,13.6
+growth_yoy,Selangor,Sabak Bernam,2018-01-01,p2,
+growth_yoy,Selangor,Sabak Bernam,2018-01-01,p3,-2.9
+growth_yoy,Selangor,Sabak Bernam,2018-01-01,p4,7.5
+growth_yoy,Selangor,Sabak Bernam,2018-01-01,p5,5.4
+growth_yoy,Selangor,Sabak Bernam,2019-01-01,p0,2.0
+growth_yoy,Selangor,Sabak Bernam,2019-01-01,p1,-0.6
+growth_yoy,Selangor,Sabak Bernam,2019-01-01,p2,
+growth_yoy,Selangor,Sabak Bernam,2019-01-01,p3,3.3
+growth_yoy,Selangor,Sabak Bernam,2019-01-01,p4,14.3
+growth_yoy,Selangor,Sabak Bernam,2019-01-01,p5,3.4
+growth_yoy,Selangor,Sabak Bernam,2020-01-01,p0,-2.3
+growth_yoy,Selangor,Sabak Bernam,2020-01-01,p1,0.7
+growth_yoy,Selangor,Sabak Bernam,2020-01-01,p2,
+growth_yoy,Selangor,Sabak Bernam,2020-01-01,p3,-0.4
+growth_yoy,Selangor,Sabak Bernam,2020-01-01,p4,-6.4
+growth_yoy,Selangor,Sabak Bernam,2020-01-01,p5,-4.3
+growth_yoy,Selangor,Sepang,2016-01-01,p0,5.9
+growth_yoy,Selangor,Sepang,2016-01-01,p1,-11.4
+growth_yoy,Selangor,Sepang,2016-01-01,p2,20.2
+growth_yoy,Selangor,Sepang,2016-01-01,p3,3.6
+growth_yoy,Selangor,Sepang,2016-01-01,p4,24.5
+growth_yoy,Selangor,Sepang,2016-01-01,p5,4.0
+growth_yoy,Selangor,Sepang,2017-01-01,p0,5.8
+growth_yoy,Selangor,Sepang,2017-01-01,p1,15.5
+growth_yoy,Selangor,Sepang,2017-01-01,p2,-2.6
+growth_yoy,Selangor,Sepang,2017-01-01,p3,0.8
+growth_yoy,Selangor,Sepang,2017-01-01,p4,4.1
+growth_yoy,Selangor,Sepang,2017-01-01,p5,6.1
+growth_yoy,Selangor,Sepang,2018-01-01,p0,5.5
+growth_yoy,Selangor,Sepang,2018-01-01,p1,2.6
+growth_yoy,Selangor,Sepang,2018-01-01,p2,3.1
+growth_yoy,Selangor,Sepang,2018-01-01,p3,8.1
+growth_yoy,Selangor,Sepang,2018-01-01,p4,6.4
+growth_yoy,Selangor,Sepang,2018-01-01,p5,5.5
+growth_yoy,Selangor,Sepang,2019-01-01,p0,8.0
+growth_yoy,Selangor,Sepang,2019-01-01,p1,2.7
+growth_yoy,Selangor,Sepang,2019-01-01,p2,14.1
+growth_yoy,Selangor,Sepang,2019-01-01,p3,-1.3
+growth_yoy,Selangor,Sepang,2019-01-01,p4,29.2
+growth_yoy,Selangor,Sepang,2019-01-01,p5,5.2
+growth_yoy,Selangor,Sepang,2020-01-01,p0,-21.1
+growth_yoy,Selangor,Sepang,2020-01-01,p1,-2.4
+growth_yoy,Selangor,Sepang,2020-01-01,p2,-12.8
+growth_yoy,Selangor,Sepang,2020-01-01,p3,22.2
+growth_yoy,Selangor,Sepang,2020-01-01,p4,-15.8
+growth_yoy,Selangor,Sepang,2020-01-01,p5,-23.9
+growth_yoy,Selangor,Ulu Langat,2016-01-01,p0,6.2
+growth_yoy,Selangor,Ulu Langat,2016-01-01,p1,-2.3
+growth_yoy,Selangor,Ulu Langat,2016-01-01,p2,29.1
+growth_yoy,Selangor,Ulu Langat,2016-01-01,p3,5.8
+growth_yoy,Selangor,Ulu Langat,2016-01-01,p4,17.5
+growth_yoy,Selangor,Ulu Langat,2016-01-01,p5,5.2
+growth_yoy,Selangor,Ulu Langat,2017-01-01,p0,8.4
+growth_yoy,Selangor,Ulu Langat,2017-01-01,p1,5.9
+growth_yoy,Selangor,Ulu Langat,2017-01-01,p2,10.1
+growth_yoy,Selangor,Ulu Langat,2017-01-01,p3,15.1
+growth_yoy,Selangor,Ulu Langat,2017-01-01,p4,-6.0
+growth_yoy,Selangor,Ulu Langat,2017-01-01,p5,6.8
+growth_yoy,Selangor,Ulu Langat,2018-01-01,p0,6.3
+growth_yoy,Selangor,Ulu Langat,2018-01-01,p1,3.3
+growth_yoy,Selangor,Ulu Langat,2018-01-01,p2,7.7
+growth_yoy,Selangor,Ulu Langat,2018-01-01,p3,8.0
+growth_yoy,Selangor,Ulu Langat,2018-01-01,p4,-7.7
+growth_yoy,Selangor,Ulu Langat,2018-01-01,p5,7.4
+growth_yoy,Selangor,Ulu Langat,2019-01-01,p0,4.6
+growth_yoy,Selangor,Ulu Langat,2019-01-01,p1,6.7
+growth_yoy,Selangor,Ulu Langat,2019-01-01,p2,18.2
+growth_yoy,Selangor,Ulu Langat,2019-01-01,p3,2.7
+growth_yoy,Selangor,Ulu Langat,2019-01-01,p4,-5.1
+growth_yoy,Selangor,Ulu Langat,2019-01-01,p5,6.2
+growth_yoy,Selangor,Ulu Langat,2020-01-01,p0,-2.3
+growth_yoy,Selangor,Ulu Langat,2020-01-01,p1,4.4
+growth_yoy,Selangor,Ulu Langat,2020-01-01,p2,-12.1
+growth_yoy,Selangor,Ulu Langat,2020-01-01,p3,2.4
+growth_yoy,Selangor,Ulu Langat,2020-01-01,p4,-13.7
+growth_yoy,Selangor,Ulu Langat,2020-01-01,p5,-3.6
+growth_yoy,Selangor,Ulu Selangor,2016-01-01,p0,-3.9
+growth_yoy,Selangor,Ulu Selangor,2016-01-01,p1,-6.5
+growth_yoy,Selangor,Ulu Selangor,2016-01-01,p2,
+growth_yoy,Selangor,Ulu Selangor,2016-01-01,p3,-8.1
+growth_yoy,Selangor,Ulu Selangor,2016-01-01,p4,23.7
+growth_yoy,Selangor,Ulu Selangor,2016-01-01,p5,3.7
+growth_yoy,Selangor,Ulu Selangor,2017-01-01,p0,0.5
+growth_yoy,Selangor,Ulu Selangor,2017-01-01,p1,5.8
+growth_yoy,Selangor,Ulu Selangor,2017-01-01,p2,
+growth_yoy,Selangor,Ulu Selangor,2017-01-01,p3,-1.6
+growth_yoy,Selangor,Ulu Selangor,2017-01-01,p4,-5.3
+growth_yoy,Selangor,Ulu Selangor,2017-01-01,p5,4.1
+growth_yoy,Selangor,Ulu Selangor,2018-01-01,p0,5.2
+growth_yoy,Selangor,Ulu Selangor,2018-01-01,p1,-2.5
+growth_yoy,Selangor,Ulu Selangor,2018-01-01,p2,
+growth_yoy,Selangor,Ulu Selangor,2018-01-01,p3,7.5
+growth_yoy,Selangor,Ulu Selangor,2018-01-01,p4,18.8
+growth_yoy,Selangor,Ulu Selangor,2018-01-01,p5,4.9
+growth_yoy,Selangor,Ulu Selangor,2019-01-01,p0,7.8
+growth_yoy,Selangor,Ulu Selangor,2019-01-01,p1,2.1
+growth_yoy,Selangor,Ulu Selangor,2019-01-01,p2,
+growth_yoy,Selangor,Ulu Selangor,2019-01-01,p3,11.6
+growth_yoy,Selangor,Ulu Selangor,2019-01-01,p4,-3.4
+growth_yoy,Selangor,Ulu Selangor,2019-01-01,p5,3.6
+growth_yoy,Selangor,Ulu Selangor,2020-01-01,p0,-1.8
+growth_yoy,Selangor,Ulu Selangor,2020-01-01,p1,1.4
+growth_yoy,Selangor,Ulu Selangor,2020-01-01,p2,
+growth_yoy,Selangor,Ulu Selangor,2020-01-01,p3,-1.1
+growth_yoy,Selangor,Ulu Selangor,2020-01-01,p4,-21.0
+growth_yoy,Selangor,Ulu Selangor,2020-01-01,p5,-1.2
